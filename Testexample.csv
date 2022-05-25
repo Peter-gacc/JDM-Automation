@@ -1,0 +1,19 @@
+Number,Description,Lifecycle Phase,Rev,Overall Compliance,Part Type,Mfr. Part Number (Manufacturers),Mfr. Name (Manufacturers),Lifecycle
+7087893,"ODM, CONN, Header, 2x4, 1.27mm pitch, Vertical, SMT, Solder, RoHS",Production,A,Compliant,Connector-Data,TFM-104-02-L-D-K-TR,SAMTEC,Active
+7114098,"JDM, CAPACITOR-CHIP,0.1uF,100V,K,X7R,1206,TR",Production,A,Compliant,Capacitor,GRM319R72A104KA01D,Murata,NRND
+7114098,"JDM, CAPACITOR-CHIP,0.1uF,100V,K,X7R,1206,TR",Production,A,Compliant,Capacitor,C1206X104K101T,"Holy Stone Enterprise Co., Ltd.",Obsolete
+7114098,"JDM, CAPACITOR-CHIP,0.1uF,100V,K,X7R,1206,TR",Production,A,Compliant,Capacitor,CC1206KKX7R0BB104,Yageo America,Obsolete
+7114099,"JDM, CAPACITOR-CHIP,0.01uF,50V,K,X7R,603,TR",Production,A,Compliant,Capacitor,C1608X7R103KGT,Darfon Electronic Corp.,Obsolete
+7114099,"JDM, CAPACITOR-CHIP,0.01uF,50V,K,X7R,603,TR",Production,A,Compliant,Capacitor,CC0603KRX7R9BB103,Yageo America,Obsolete
+7114099,"JDM, CAPACITOR-CHIP,0.01uF,50V,K,X7R,603,TR",Production,A,Compliant,Capacitor,0603B103K500CT,Walsin Technology,Obsolete
+7114099,"JDM, CAPACITOR-CHIP,0.01uF,50V,K,X7R,603,TR",Production,A,Compliant,Capacitor,GRM188R71H103KA01D,Murata,Obsolete
+7114100,"JDM, CAPACITOR-CHIP,0.1uF,50V,K,X7R,805,TR",Production,A,Compliant,Capacitor,C2012X7R104K,Darfon Electronic Corp.,Obsolete
+7114100,"JDM, CAPACITOR-CHIP,0.1uF,50V,K,X7R,805,TR",Production,A,Compliant,Capacitor,CC0805KRX7R9BB104,Yageo America,Obsolete
+7114100,"JDM, CAPACITOR-CHIP,0.1uF,50V,K,X7R,805,TR",Production,A,Compliant,Capacitor,0805B104K500,Walsin Technology,Obsolete
+7114100,"JDM, CAPACITOR-CHIP,0.1uF,50V,K,X7R,805,TR",Production,A,Compliant,Capacitor,C2012X7R1H104KT0J0N,TDK,Active
+7114102,"JDM, CAPACITOR-CHIP,18pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,GRM1555C1H180J,Murata,Active
+7114102,"JDM, CAPACITOR-CHIP,18pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,0402N180J500CT,Walsin Technology,Active
+7114102,"JDM, CAPACITOR-CHIP,18pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,C1005C0G1H180JT000P,TDK,Active
+7114102,"JDM, CAPACITOR-CHIP,18pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,CC0402JRNPO9BN180,Yageo America,Active
+7114102,"JDM, CAPACITOR-CHIP,18pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,C1005NPO180JGT,Darfon Electronic Corp.,Active
+7114112,"JDM, CAPACITOR-CHIP,22pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,CC0402JRNPO9BN220,Yageo America,Active

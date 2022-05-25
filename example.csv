@@ -1,0 +1,108 @@
+Number,Description,Lifecycle Phase,Rev,Overall Compliance,Part Type,Mfr. Part Number (Manufacturers),Mfr. Name (Manufacturers),Lifecycle
+07087893,"ODM, CONN, Header, 2x4, 1.27mm pitch, Vertical, SMT, Solder, RoHS",Production,A,Compliant,Connector-Data,TFM-104-02-L-D-K-TR,SAMTEC,Active
+07114098,"JDM, CAPACITOR-CHIP,0.1uF,100V,K,X7R,1206,TR",Production,A,Compliant,Capacitor,GRM319R72A104KA01D,Murata,NRND
+07114098,"JDM, CAPACITOR-CHIP,0.1uF,100V,K,X7R,1206,TR",Production,A,Compliant,Capacitor,C1206X104K101T,"Holy Stone Enterprise Co., Ltd.",Obsolete
+07114098,"JDM, CAPACITOR-CHIP,0.1uF,100V,K,X7R,1206,TR",Production,A,Compliant,Capacitor,CC1206KKX7R0BB104,Yageo America,Obsolete
+07114099,"JDM, CAPACITOR-CHIP,0.01uF,50V,K,X7R,603,TR",Production,A,Compliant,Capacitor,C1608X7R103KGT,Darfon Electronic Corp.,Obsolete
+07114099,"JDM, CAPACITOR-CHIP,0.01uF,50V,K,X7R,603,TR",Production,A,Compliant,Capacitor,CC0603KRX7R9BB103,Yageo America,Obsolete
+07114099,"JDM, CAPACITOR-CHIP,0.01uF,50V,K,X7R,603,TR",Production,A,Compliant,Capacitor,0603B103K500CT,Walsin Technology,Obsolete
+07114099,"JDM, CAPACITOR-CHIP,0.01uF,50V,K,X7R,603,TR",Production,A,Compliant,Capacitor,GRM188R71H103KA01D,Murata,Obsolete
+07114100,"JDM, CAPACITOR-CHIP,0.1uF,50V,K,X7R,805,TR",Production,A,Compliant,Capacitor,C2012X7R104K,Darfon Electronic Corp.,Obsolete
+07114100,"JDM, CAPACITOR-CHIP,0.1uF,50V,K,X7R,805,TR",Production,A,Compliant,Capacitor,CC0805KRX7R9BB104,Yageo America,Obsolete
+07114100,"JDM, CAPACITOR-CHIP,0.1uF,50V,K,X7R,805,TR",Production,A,Compliant,Capacitor,0805B104K500,Walsin Technology,Obsolete
+07114100,"JDM, CAPACITOR-CHIP,0.1uF,50V,K,X7R,805,TR",Production,A,Compliant,Capacitor,C2012X7R1H104KT0J0N,TDK,Active
+07114102,"JDM, CAPACITOR-CHIP,18pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,GRM1555C1H180J,Murata,Active
+07114102,"JDM, CAPACITOR-CHIP,18pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,0402N180J500CT,Walsin Technology,Active
+07114102,"JDM, CAPACITOR-CHIP,18pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,C1005C0G1H180JT000P,TDK,Active
+07114102,"JDM, CAPACITOR-CHIP,18pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,CC0402JRNPO9BN180,Yageo America,Active
+07114102,"JDM, CAPACITOR-CHIP,18pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,C1005NPO180JGT,Darfon Electronic Corp.,Active
+07114112,"JDM, CAPACITOR-CHIP,22pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,CC0402JRNPO9BN220,Yageo America,Active
+07114112,"JDM, CAPACITOR-CHIP,22pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,C1005NPO220JGT,Darfon Electronic Corp.,Active
+07114112,"JDM, CAPACITOR-CHIP,22pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,0402N220J500CT,Walsin Technology,Active
+07114112,"JDM, CAPACITOR-CHIP,22pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,GRM1555C1H220JA01D,Murata,NRND
+07114112,"JDM, CAPACITOR-CHIP,22pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,C1005C0G1H220JT000P,TDK,NRND
+07114113,"JDM, CAPACITOR-CHIP,100pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,0402N101J500CT,Walsin Technology,NRND
+07114113,"JDM, CAPACITOR-CHIP,100pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,C1005NPO101JGT,Darfon Electronic Corp.,NRND
+07114113,"JDM, CAPACITOR-CHIP,100pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,CC0402JRNPO9BN101,Yageo America,NRND
+07114113,"JDM, CAPACITOR-CHIP,100pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,C1005C0G1H101JT000F,TDK,Active
+07114113,"JDM, CAPACITOR-CHIP,100pF,50V,J,NP0,402,TR",Production,A,Compliant,Capacitor,GRM1555C1H101JA01D,Murata,Obsolete
+07114114,"JDM, CAPACITOR-CHIP,220pF,50V,K,X7R,402,TR",Production,A,Compliant,Capacitor,GRM155R71H221KA01D,Murata,Obsolete
+07114114,"JDM, CAPACITOR-CHIP,220pF,50V,K,X7R,402,TR",Production,A,Compliant,Capacitor,CC0402KRX7R9BB221,Yageo America,Obsolete
+07114114,"JDM, CAPACITOR-CHIP,220pF,50V,K,X7R,402,TR",Production,A,Compliant,Capacitor,0402B221K500CT,Walsin Technology,Obsolete
+07114114,"JDM, CAPACITOR-CHIP,220pF,50V,K,X7R,402,TR",Production,A,Compliant,Capacitor,C1005X7R221KGT,Darfon Electronic Corp.,Active
+07114114,"JDM, CAPACITOR-CHIP,220pF,50V,K,X7R,402,TR",Production,A,Compliant,Capacitor,C1005X7R1H221KT000F,TDK,Active
+07114115,"JDM, CAPACITOR-CHIP,1000pF,50V,K,X7R,402,TR",Production,B,Missing Info,Capacitor,C1005X7R1H102KT000F,TDK,Active
+07114115,"JDM, CAPACITOR-CHIP,1000pF,50V,K,X7R,402,TR",Production,B,Missing Info,Capacitor,CC0402KRX7R9BB102,Yageo America,Active
+07114115,"JDM, CAPACITOR-CHIP,1000pF,50V,K,X7R,402,TR",Production,B,Missing Info,Capacitor,CL05B102KB5NNNC,Samsung,Active
+07114115,"JDM, CAPACITOR-CHIP,1000pF,50V,K,X7R,402,TR",Production,B,Missing Info,Capacitor,C1005X7R102KGT,Darfon Electronic Corp.,Active
+07114115,"JDM, CAPACITOR-CHIP,1000pF,50V,K,X7R,402,TR",Production,B,Missing Info,Capacitor,UMK105 B7102KV-F,Taiyo-Yuden,Active
+07114115,"JDM, CAPACITOR-CHIP,1000pF,50V,K,X7R,402,TR",Production,B,Missing Info,Capacitor,GRM155R71H102KA01D,Murata,Active
+07114116,"JDM, CAPACITOR-CHIP,3900pF,25V,K,X7R,402,TR",Production,A,Compliant,Capacitor,CC0402KRX7R8BB392,Yageo America,Active
+07114116,"JDM, CAPACITOR-CHIP,3900pF,25V,K,X7R,402,TR",Production,A,Compliant,Capacitor,0402B392K250CT,Walsin Technology,Active
+07114116,"JDM, CAPACITOR-CHIP,3900pF,25V,K,X7R,402,TR",Production,A,Compliant,Capacitor,C1005X7R392KFT,Darfon Electronic Corp.,Active
+07114117,"JDM, CAPACITOR-CHIP,0.01uF,25V,K,X7R,402,TR",Production,A,Compliant,Capacitor,C1005X7R1E103KT000F,TDK,Active
+07114117,"JDM, CAPACITOR-CHIP,0.01uF,25V,K,X7R,402,TR",Production,A,Compliant,Capacitor,0402B103K250CT,Walsin Technology,Active
+07114117,"JDM, CAPACITOR-CHIP,0.01uF,25V,K,X7R,402,TR",Production,A,Compliant,Capacitor,CC0402KRX7R8BB103,Yageo America,Active
+07114117,"JDM, CAPACITOR-CHIP,0.01uF,25V,K,X7R,402,TR",Production,A,Compliant,Capacitor,GRM155R71E103KA01D,Murata,Active
+07114117,"JDM, CAPACITOR-CHIP,0.01uF,25V,K,X7R,402,TR",Production,A,Compliant,Capacitor,C1005X7R103KFT,Darfon Electronic Corp.,Active
+07114117,"JDM, CAPACITOR-CHIP,0.01uF,25V,K,X7R,402,TR",Production,A,Compliant,Capacitor,CL05B103KA5NNNC,Samsung,Active
+07114118,"JDM, CAPACITOR-CHIP,0.01uF,16V,K,X7R,402,TR",Production,A,Compliant,Capacitor,CC0402KRX7R7BB103,Yageo America,Active
+07114118,"JDM, CAPACITOR-CHIP,0.01uF,16V,K,X7R,402,TR",Production,A,Compliant,Capacitor,0402B103K160CT,Walsin Technology,Active
+07114118,"JDM, CAPACITOR-CHIP,0.01uF,16V,K,X7R,402,TR",Production,A,Compliant,Capacitor,C1005X7R103KET,Darfon Electronic Corp.,Active
+07114118,"JDM, CAPACITOR-CHIP,0.01uF,16V,K,X7R,402,TR",Production,A,Compliant,Capacitor,GRM155R71C103KA01D,Murata,Active
+07114118,"JDM, CAPACITOR-CHIP,0.01uF,16V,K,X7R,402,TR",Production,A,Compliant,Capacitor,CL05B103KO5NNNC,Samsung,Active
+07114119,"JDM, CAPACITOR-CHIP,0.015uF,16V,K,X7R,402,TR",Production,A,Compliant,Capacitor,CC0402KRX7R7BB153,Yageo America,Active
+07114119,"JDM, CAPACITOR-CHIP,0.015uF,16V,K,X7R,402,TR",Production,A,Compliant,Capacitor,C1005X7R153KET,Darfon Electronic Corp.,Active
+07114119,"JDM, CAPACITOR-CHIP,0.015uF,16V,K,X7R,402,TR",Production,A,Compliant,Capacitor,GRM155R71C153KA01D,Murata,Active
+07114120,"JDM, CAPACITOR-CHIP,0.022uF,16V,K,X7R,402,TR,0.5mm",Production,A,Compliant,Capacitor,CC0402KRX7R7BB223,Yageo America,Active
+07114120,"JDM, CAPACITOR-CHIP,0.022uF,16V,K,X7R,402,TR,0.5mm",Production,A,Compliant,Capacitor,GRM155R71C223KA01D,Murata,Active
+07114120,"JDM, CAPACITOR-CHIP,0.022uF,16V,K,X7R,402,TR,0.5mm",Production,A,Compliant,Capacitor,EMK105B7223KV-F,Taiyo-Yuden,Active
+07114120,"JDM, CAPACITOR-CHIP,0.022uF,16V,K,X7R,402,TR,0.5mm",Production,A,Compliant,Capacitor,C1005X7R223KET,Darfon Electronic Corp.,Active
+07114121,"JDM, CAPACITOR-CHIP,0.047uF,16V,K,X7R,402,TR",Production,A,Compliant,Capacitor,C1005X7R1C473KT000F,TDK,Active
+07114121,"JDM, CAPACITOR-CHIP,0.047uF,16V,K,X7R,402,TR",Production,A,Compliant,Capacitor,CL05B473KO5NNNC,Samsung,Active
+07114121,"JDM, CAPACITOR-CHIP,0.047uF,16V,K,X7R,402,TR",Production,A,Compliant,Capacitor,C1005X7R473KET,Darfon Electronic Corp.,Active
+07114121,"JDM, CAPACITOR-CHIP,0.047uF,16V,K,X7R,402,TR",Production,A,Compliant,Capacitor,CC0402KRX7R7BB473,Yageo America,Active
+07114122,"JDM, CAPACITOR-CHIP,0.1uF,16V,K,X7R,0402,TR",Production,A,Compliant,Capacitor,GRM155R71C104KA88D,Murata,Active
+07114122,"JDM, CAPACITOR-CHIP,0.1uF,16V,K,X7R,0402,TR",Production,A,Compliant,Capacitor,EMK105BJ104KV-FR,Taiyo-Yuden,Active
+07114122,"JDM, CAPACITOR-CHIP,0.1uF,16V,K,X7R,0402,TR",Production,A,Compliant,Capacitor,C1005X7R104KET,Darfon Electronic Corp.,Active
+07114122,"JDM, CAPACITOR-CHIP,0.1uF,16V,K,X7R,0402,TR",Production,A,Compliant,Capacitor,CL05B104KO5NNNC,Samsung,Active
+07114122,"JDM, CAPACITOR-CHIP,0.1uF,16V,K,X7R,0402,TR",Production,A,Compliant,Capacitor,0402B104K160CT,Walsin Technology,Active
+07114122,"JDM, CAPACITOR-CHIP,0.1uF,16V,K,X7R,0402,TR",Production,A,Compliant,Capacitor,C1005X7R1C104KT,TDK,Active
+07114123,"JDM, CAPACITOR-CHIP,1uF,16V,K,X7R,805,TR",Production,A,Compliant,Capacitor,CC0805KKX7R7BB105,Yageo America,Obsolete
+07114123,"JDM, CAPACITOR-CHIP,1uF,16V,K,X7R,805,TR",Production,A,Compliant,Capacitor,EMK212 BJ105KG-T,Taiyo-Yuden,Obsolete
+07114123,"JDM, CAPACITOR-CHIP,1uF,16V,K,X7R,805,TR",Production,A,Compliant,Capacitor,C2012X7R1C105KT000N,TDK,Obsolete
+07114123,"JDM, CAPACITOR-CHIP,1uF,16V,K,X7R,805,TR",Production,A,Compliant,Capacitor,GRM21BR71C105KA01L,Murata,Obsolete
+07114124,"JDM, CAPACITOR-CHIP,1uF,16V,K,X5R,0603,TR,0.8mm",Production,A,Compliant,Capacitor,EMK107 BJ105KA-T,Taiyo-Yuden,Obsolete
+07114124,"JDM, CAPACITOR-CHIP,1uF,16V,K,X5R,0603,TR,0.8mm",Production,A,Compliant,Capacitor,CL10A105KO8NNNC,Samsung,Obsolete
+07114124,"JDM, CAPACITOR-CHIP,1uF,16V,K,X5R,0603,TR,0.8mm",Production,A,Compliant,Capacitor,CM105X5R105K16AT,AVX,Obsolete
+07114124,"JDM, CAPACITOR-CHIP,1uF,16V,K,X5R,0603,TR,0.8mm",Production,A,Compliant,Capacitor,C1608X5R105KETS,Darfon Electronic Corp.,Obsolete
+07114124,"JDM, CAPACITOR-CHIP,1uF,16V,K,X5R,0603,TR,0.8mm",Production,A,Compliant,Capacitor,C1608X5R1C105KT000N,TDK,Obsolete
+07114124,"JDM, CAPACITOR-CHIP,1uF,16V,K,X5R,0603,TR,0.8mm",Production,A,Compliant,Capacitor,GRM188R61C105KA12D,Murata,Obsolete
+07114125,"JDM, CAPACITOR-AL,47uF,M",Production,A,Missing Info,Capacitor,UVY2A470MPD,Nichicon Corporation,Obsolete
+07114125,"JDM, CAPACITOR-AL,47uF,M",Production,A,Missing Info,Capacitor,100ME47FY+TS,SUN Electronic Industries Corp.,Obsolete
+07114126,"JDM, CAPACITOR-AL,100uF,100V,M,-55~+105C,10x16 mm,DIP,TAP",Production,A,Missing Info,Capacitor,100PX100MEFCT810X16,RUBYCON CORPORATION,Active
+07114126,"JDM, CAPACITOR-AL,100uF,100V,M,-55~+105C,10x16 mm,DIP,TAP",Production,A,Missing Info,Capacitor,UVY2A101MPD,Nichicon Corporation,Active
+07114128,"JDM, CAPACITOR-TA-SP,470uF,6.3V,M,-55~+105C,DX3.8,SMD,TR,10mOhm",Production,A,Compliant,Capacitor,T520D477M006ATE015,KEMET,Active
+07114128,"JDM, CAPACITOR-TA-SP,470uF,6.3V,M,-55~+105C,DX3.8,SMD,TR,10mOhm",Production,A,Compliant,Capacitor,6TPF470MAH,Panasonic,Active
+07114130,"JDM, CAPACITOR-CHIP,2.2uF,10V,K,X5R,0603,TR",Production,A,Compliant,Capacitor,GRM188R61A225K,Murata,Active
+07114130,"JDM, CAPACITOR-CHIP,2.2uF,10V,K,X5R,0603,TR",Production,A,Compliant,Capacitor,C1608X5R225KDTS,Darfon Electronic Corp.,Active
+07114130,"JDM, CAPACITOR-CHIP,2.2uF,10V,K,X5R,0603,TR",Production,A,Compliant,Capacitor,LMK107BJ225KA-T,Taiyo-Yuden,Active
+07114130,"JDM, CAPACITOR-CHIP,2.2uF,10V,K,X5R,0603,TR",Production,A,Compliant,Capacitor,C1608X5R1A225KT,TDK,Active
+07114130,"JDM, CAPACITOR-CHIP,2.2uF,10V,K,X5R,0603,TR",Production,A,Compliant,Capacitor,CL10A225KP8NNNC,Samsung,Active
+07114131,"JDM, CAPACITOR-CHIP,0.1uF,50V,K,X7R,0603,TR",Production,A,Compliant,Capacitor,C1608X7R104KGT,Darfon Electronic Corp.,Active
+07114131,"JDM, CAPACITOR-CHIP,0.1uF,50V,K,X7R,0603,TR",Production,A,Compliant,Capacitor,CC0603KRX7R9BB104,Yageo America,Active
+07114131,"JDM, CAPACITOR-CHIP,0.1uF,50V,K,X7R,0603,TR",Production,A,Compliant,Capacitor,C1608X7R1H104KT,TDK,Active
+07114131,"JDM, CAPACITOR-CHIP,0.1uF,50V,K,X7R,0603,TR",Production,A,Compliant,Capacitor,CL10B104KB8NNNC,Samsung,Active
+07114131,"JDM, CAPACITOR-CHIP,0.1uF,50V,K,X7R,0603,TR",Production,A,Compliant,Capacitor,0603B104K500CT,Walsin Technology,Active
+07114132,"JDM, CAPACITOR-CHIP,4.7uF,6.3V,K,X5R,0603,TR,0.8mm",Production,A,Compliant,Capacitor,JMK107BJ475KA-T,Taiyo-Yuden,Active
+07114132,"JDM, CAPACITOR-CHIP,4.7uF,6.3V,K,X5R,0603,TR,0.8mm",Production,A,Compliant,Capacitor,CL10A475KQ8NNNC,Samsung,Active
+07114132,"JDM, CAPACITOR-CHIP,4.7uF,6.3V,K,X5R,0603,TR,0.8mm",Production,A,Compliant,Capacitor,C1608X5R475KCT,Darfon Electronic Corp.,Active
+07114132,"JDM, CAPACITOR-CHIP,4.7uF,6.3V,K,X5R,0603,TR,0.8mm",Production,A,Compliant,Capacitor,C0603B475K007T,"Holy Stone Enterprise Co., Ltd.",Active
+07114132,"JDM, CAPACITOR-CHIP,4.7uF,6.3V,K,X5R,0603,TR,0.8mm",Production,A,Compliant,Capacitor,GRM188R60J475KE19D,Murata,Active
+07114133,"JDM, CAPACITOR-TA-SP,220uF,10V,M,-55~+105C,7343X2.8,SMD,TR,25mOhm,Y",Production,A,Compliant,Capacitor,T520D227M010ATE025,KEMET,Active
+07114133,"JDM, CAPACITOR-TA-SP,220uF,10V,M,-55~+105C,7343X2.8,SMD,TR,25mOhm,Y",Production,A,Compliant,Capacitor,10TPE220ML,Panasonic,Active
+07114134,"JDM, CAPACITOR-CHIP,0.047uF,50V,K,X7R,0603,TR",Production,A,Compliant,Capacitor,C1608X7R473KGTS,Darfon Electronic Corp.,Active
+07114134,"JDM, CAPACITOR-CHIP,0.047uF,50V,K,X7R,0603,TR",Production,A,Compliant,Capacitor,GRM188R71H473K,Murata,Active
+07114134,"JDM, CAPACITOR-CHIP,0.047uF,50V,K,X7R,0603,TR",Production,A,Compliant,Capacitor,0603B473K500CT,Walsin Technology,Active
+07114135,"JDM, CAPACITOR-CHIP,1uF,25V,K,X5R,0603,TR",Production,A,Compliant,Capacitor,CL10A105KA8NNNC,Samsung,Active
+07114135,"JDM, CAPACITOR-CHIP,1uF,25V,K,X5R,0603,TR",Production,A,Compliant,Capacitor,TMK107BJ105KA-T,Taiyo-Yuden,Active
